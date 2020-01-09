@@ -9,6 +9,8 @@ app/*
 !var/
 var/*
 
+!docs/*
+
 !var/langs/
 var/langs/*
 
