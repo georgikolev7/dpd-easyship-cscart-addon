@@ -5,12 +5,12 @@ msgstr "Project-Id-Version: tygh\n"
 "Language: en_US"
 
 msgctxt "Addons::name::dpd_easyship"
-msgid "DPD Shipping"
-msgstr "DPD Shipping"
+msgid "DPD Easyship"
+msgstr "DPD Easyship"
 
 msgctxt "Addons::description::dpd_easyship"
-msgid "DPD Shipping Carrier"
-msgstr "DPD Shipping Carrier"
+msgid "DPD Easyship Integration"
+msgstr "DPD Easyship Integration"
 
 msgctxt "Languages::carrier_dpd_easyship"
 msgid "DPD Easyship"
