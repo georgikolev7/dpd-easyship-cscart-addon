@@ -1,0 +1,29 @@
+msgid ""
+msgstr "Project-Id-Version: tygh\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US"
+
+msgctxt "Addons::name::dpd_easyship"
+msgid "DPD Shipping"
+msgstr "DPD Shipping"
+
+msgctxt "Addons::description::dpd_easyship"
+msgid "DPD Shipping Carrier"
+msgstr "DPD Shipping Carrier"
+
+msgctxt "Languages::carrier_dpd_easyship"
+msgid "DPD Easyship"
+msgstr "DPD Easyship"
+
+msgctxt "Languages::ship_dpd_username"
+msgid "DPD username"
+msgstr "DPD username"
+
+msgctxt "Languages::ship_dpd_password"
+msgid "DPD password"
+msgstr "DPD password"
+
+msgctxt "Languages::print_dpd_easyship_packing_slip"
+msgid "Print DPD packing slip"
+msgstr "Print DPD packing slip"

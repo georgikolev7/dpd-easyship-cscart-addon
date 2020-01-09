@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<addon scheme="3.0" edition_type="ROOT,ULT:VENDOR">
+    <id>dpd_easyship</id>
+    <version>1.0.0</version>
+    <name>DPD Easyship</name>
+    <description>DPD EasyShip API integration</description>
+    <priority>100500</priority>
+    <status>active</status>
+    <authors>
+        <author>
+            <name>Георги Колев</name>
+            <email>georgi.kolev@imode.si</email>
+            <url>https://www.imode.si</url>
+        </author>
+    </authors>
+    <has_icon>Y</has_icon>
+    <supplier>iMode d.o.o</supplier>
+    <supplier_link>https://www.imode.si/</supplier_link>
+    <settings>
+        <sections>
+            <section id="general">
+                <items>
+                    <item id="username">
+                        <name>DPD Username</name>
+                        <type>input</type>
+                        <default_value></default_value>
+                    </item>
+                    <item id="password">
+                        <name>DPD Password</name>
+                        <type>input</type>
+                        <default_value></default_value>
+                    </item>
+                </items>
+            </section>
+        </sections>
+    </settings>
+    <functions>
+        <item for="install">fn_dpd_easyship_install</item>
+        <item for="uninstall">fn_dpd_easyship_uninstall</item>
+    </functions>
+</addon>
