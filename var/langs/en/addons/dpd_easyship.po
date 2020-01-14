@@ -27,3 +27,11 @@ msgstr "DPD password"
 msgctxt "Languages::print_dpd_easyship_packing_slip"
 msgid "Print DPD packing slip"
 msgstr "Print DPD packing slip"
+
+msgctxt "Languages::generate_dpd_easyship_parcel"
+msgid "Generate DPD Easyship Parcel"
+msgstr "Generate DPD Easyship Parcel"
+
+msgctxt "Languages::generate_dpd_easyship_label"
+msgid "Print DPD package slip"
+msgstr "Print DPD package slip"

@@ -1,0 +1,1 @@
+<li>{btn type="list" text=__("generate_dpd_easyship_label") href="dpd_easyship.generate_label?order_id=`$order_info.order_id`"}</li>

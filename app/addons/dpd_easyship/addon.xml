@@ -30,22 +30,6 @@
                         <type>input</type>
                         <default_value></default_value>
                     </item>
-                    <item id="parcel_type">
-                        <name>Parcel Type</name>
-                        <type>selectbox</type>
-                        <variants>
-                            <item id="D">
-                                <name>DPD Classic</name>
-                            </item>
-                            <item id="D_COD">
-                                <name>DPD Classic COD</name>
-                            </item>
-                            <item id="D_DOCRET">
-                                <name>DPD Classic Docret</name>
-                            </item>
-                        </variants>
-                        <default_value>D</default_value>
-                    </item>
                 </items>
             </section>
         </sections>
